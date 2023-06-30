@@ -28,10 +28,15 @@ def update_files(repo, app_name, selected_code, text):
 
 
 def commit_deploy():
+    if 'user' not in st.session_state or 'repo' not in st.session_state:
+        st.warning("Project was not created.")
+        return
+
     user = st.session_state['user']
     selected_code = st.session_state["content"]
     text = st.session_state['req']
     update_files(st.session_state['repo'], "streamlit_app", selected_code, text)
+
 
 
 def right_codeblock(lib="", code=""):
