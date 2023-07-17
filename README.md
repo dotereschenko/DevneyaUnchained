@@ -35,7 +35,7 @@ Here are the instructions for launching DevneyaUnchained web application locally
 ## Usage
 **DevneyaUnchained** can be used to create any type of Streamlit app. For instance, Dashboard for data analysis with a wide variety data visualisation. Usecases can be found on Streamlit website.
 
-![Demo]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/dotereschenko/dotereschenko/blob/main/demo.gif)
+![Demo](https://github.com/dotereschenko/dotereschenko/blob/main/demo.gif)
 
 
 
