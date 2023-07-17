@@ -1,6 +1,6 @@
 # DevneyaUnchained
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://devneyaunchained.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dotereschenko-devneyaunchained-app-ju18ba.streamlit.app/)
 
 
 **DevneyaUnchained** is a web application that makes web development with Streamlit more convenient. The app authorizes the user via GitHub OAuth and requests the **OPEN_AI** token. Once the necessary information is provided, the user can create an empty project and deploy it. At this stage, the user can write a coding request to the LLM model and deploy the generated code directly to the deployed project.
