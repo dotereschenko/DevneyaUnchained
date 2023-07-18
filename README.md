@@ -42,7 +42,7 @@ Here are the instructions for launching DevneyaUnchained web application locally
 ## Linking your Oauth app
 Devenya uses GitHub OAuth app for authentication process. Therefore, if the app is run locally, the **CLIENT-ID** and **CLIENT-SECRET** should be should be included in environment.
 
-##Configuration
+## Configuration
 **DevneyaUnchained** uses GitHub OAuth app for the authentication process. If the app is run locally, you need to include the **CLIENT_ID** and **CLIENT_SECRET** in the environment.
 
 ## Project Structure
